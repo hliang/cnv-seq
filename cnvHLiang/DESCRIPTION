@@ -1,0 +1,15 @@
+Package: cnvHLiang
+Version: 0.2-7
+Date: 2011-02-14
+Title: Detection of Copy Number Variation by Sequencing
+Author: Xie Chao <xie.chaos@gmail.com>
+Maintainer: Xie Chao <xie.chaos@gmail.com>
+Depends: R (>= 2.8.1), ggplot2 (>= 0.8.5)
+Description: Copy number variation (CNV) are usually
+  detected using aCGH, which is a microarray based method.
+  We present a CNV detection method that uses ultra high
+  throughput sequencing.
+  Modified by HLiang to fix some bugs.
+License: GPL (>= 2)
+URL: http://tiger.dbs.nus.edu.sg/CNV-seq/
+
